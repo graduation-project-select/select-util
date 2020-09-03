@@ -6,3 +6,6 @@
 
 ### fabric_labels.txt
 ### texture_labels.txt
+
+### classifyCatg.py, classifyCatg_.py
+texture_labels.txt와 fabric_labels.txt에 따라 deepFashion에서 제공하는 이미지 데이터를 속성(category, texture, fabric)에 따라 분류할 때 사용
